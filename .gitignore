@@ -1,0 +1,4 @@
+.history
+__pycache__/
+app/__pycache__/
+instance/
